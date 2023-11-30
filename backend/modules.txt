@@ -1,0 +1,5 @@
+milua
+lua-mongo
+lua-resty-jwt
+luaunit
+lockbox
